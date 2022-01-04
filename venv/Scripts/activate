@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\eugen\Desktop\Генератор текстов\SongLyricsGenerator v.1.0\venv"
+VIRTUAL_ENV="C:\Users\eugen\Documents\MY_IT_PROJECTS\SongLyricsGenerator\SongLyricsGenerator_project\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
